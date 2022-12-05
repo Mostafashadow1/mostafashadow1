@@ -9,14 +9,13 @@
 - 🤓 I’m Taking About MERN stack technology in YouTube and others
  
 - 🌱 I’m currently learning **MERN Stack**
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.mostafashadow1.tk/)
 
-- 👨‍💻 All of my projects are available at [https://www.mostafamohamed.ml/](https://www.mostafamohamed.ml/)
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **JS &TS & NextJs & React**
 
 - 📫 How to reach me **mosatfa346@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oqTfgGomfPTBqv6D3O5GML5TK5JsvnYOndVrQHXqwfI/edit?usp=sharing](https://docs.google.com/document/d/1oqTfgGomfPTBqv6D3O5GML5TK5JsvnYOndVrQHXqwfI/edit?usp=sharing)
+- 📄 Know about my experiences at [CV](https://drive.google.com/file/d/19eBwDwxplDHFfHvcY2pbOJUH_pzN54eL/view)
 
 - ⚡ Fun fact **I like to learn something new every day.**
 
