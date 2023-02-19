@@ -1,4 +1,4 @@
-![Banner](https://scontent.faly2-2.fna.fbcdn.net/v/t39.30808-6/298989795_3323537944559938_178400500193584813_n.jpg?stp=dst-jpg_p600x600&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LdWzrCbiLR8AX_CrdSC&_nc_ht=scontent.faly2-2.fna&oh=00_AfBvVuBNqu8XS7LcWbIHNV4un72lL6kGqiNNC5PN7Z7Qew&oe=63925BCD)
+![Banner](https://scontent.faly2-2.fna.fbcdn.net/v/t39.30808-6/323447084_1146599449366237_441818306505432246_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=5oA8VO0MVj8AX8fm7Eb&_nc_ht=scontent.faly2-2.fna&oh=00_AfADND1xWy7PWnzNguvyLsI9VtNESBsxPYD_hVAAxKcxtQ&oe=63F80AAF)
 
 
 
