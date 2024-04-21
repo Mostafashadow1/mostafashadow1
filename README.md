@@ -1,12 +1,12 @@
-![Banner](https://scontent.faly2-2.fna.fbcdn.net/v/t39.30808-6/323447084_1146599449366237_441818306505432246_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=5oA8VO0MVj8AX8fm7Eb&_nc_ht=scontent.faly2-2.fna&oh=00_AfADND1xWy7PWnzNguvyLsI9VtNESBsxPYD_hVAAxKcxtQ&oe=63F80AAF)](https://www.facebook.com/photo/?fbid=3700173016896427&set=a.1383260348587717)
+![Banner](https://scontent.faly2-1.fna.fbcdn.net/v/t39.30808-6/421474983_3700173010229761_3948035651829302269_n.png?stp=dst-png_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHcSnra4_4fZjqTI4rLfmDWe01XZJz_ePB7TVdknP948HSHCFSNX3LmhStis9gVIHPIJXuAc3oU4Irna5X2o1v9&_nc_ohc=mSZYbKVmi_8Ab7rXcRB&_nc_ht=scontent.faly2-1.fna&oh=00_AfBo1glTkLM7crPCiTt6PLnTzm7KIbhWWJn54woTGpu3QA&oe=662A887D)
 
 
 
 <h1 align="center">Hello there  👋, I'm Mostafa Mohamed (Shadow)  ♥</h1>
-<h3 align="center">I'm a web developer , and I'm a content creator on YouTube and others. I'm talking about developing sites and I'm also sharing my experiences with others. . I've been working as a frontend developer for three years of experience, and now I'm working in full stack development for one year. I have experience dealing with programming and modern web technologies , I have built a lot of projects, I like to learn something new every day .</h3>
+<h3 align="center">I'm a web developer, and I'm a content creator on YouTube and others. I'm talking about developing sites and I'm also sharing my experiences with others... I've been working as a frontend developer for three years of experience, and now I'm working in full stack development for one year. I have experience dealing with programming and modern web technologies, I have built a lot of projects, and I like to learn something new every day.</h3>
 <br/>
 
-- 🤓 I’m Taking About MERN stack technology in YouTube and others
+- 🤓 I’m talking about MERN stack technology on YouTube and others
  
 - 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.mostafashadow1.tk/)
