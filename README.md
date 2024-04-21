@@ -20,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/MostafaShadow1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-mohamed-479b40238" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/MostafaShadow1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mostafashadow1" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/channel/UC4Hz-ntDHefICIBkutpadBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadow coding" height="30" width="40" /></a>
 </p>
 
