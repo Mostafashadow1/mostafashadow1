@@ -19,8 +19,32 @@ I’m also the founder of **Shadow Coding**, where I share practical frontend en
 
 ---
 
+
 ## Open Source Developer Tools
 
+### [Compressly](https://github.com/Mostafashadow1/compressly)
+
+Open-source **zero-dependency image compression library** for React, Next.js, and web applications. It runs client-side inside a Web Worker (`OffscreenCanvas`), compressing large images (e.g., 20MB+ down to ~200KB) in milliseconds before uploading to the server.
+
+Compressly solves the UX issue of hard upload limits and saves cloud storage costs without freezing the main UI thread.
+
+**Highlights**
+
+* **Tiny Bundle:** Less than 3 KB (95% smaller than legacy libraries)
+* **Zero Dependencies:** Pure, native web APIs
+* **Non-blocking UI:** Runs in a Web Worker using `OffscreenCanvas` for 60 FPS performance
+* **Auto EXIF Rotation:** Uses `createImageBitmap` to auto-fix iPhone portrait orientation issues
+* **Adaptive Target Size Loop:** Automatically optimizes quality and dimensions to hit exact target file sizes
+* **Parallel Multi-Image Pool:** Efficient batch compression without consuming excess browser memory
+* **Next.js & React Ready:** Fully compatible with SSR (App & Pages Router) + includes `useImageCompressor` hook
+
+Links:
+
+* [GitHub](https://github.com/Mostafashadow1/compressly)
+* [npm](https://www.npmjs.com/package/compressly)
+* [Playground (Demo)](https://compressly-two.vercel.app/)
+
+* ---
 ### [Accessly](https://github.com/Mostafashadow1/accessly)
 
 Open-source **React / Next.js access-control package** for explainable permissions, RBAC, feature flags, backend adapters, navigation filtering, and protected UI patterns.
