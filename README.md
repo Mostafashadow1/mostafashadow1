@@ -183,6 +183,9 @@ Frontend Architecture, Design Systems, Web Performance, Developer Experience, Co
 ---
 
 <p align="left">
+  <a href="https://github.com/Mostafashadow1/compressly">
+    <img src="https://img.shields.io/badge/Compressly-Image%20Compression-111827?style=for-the-badge&logo=npm&logoColor=CB3837" alt="Compressly" />
+  </a>
   <a href="https://github.com/Mostafashadow1/accessly">
     <img src="https://img.shields.io/badge/Accessly-React%20Access%20Control-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Accessly" />
   </a>
