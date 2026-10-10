@@ -1,198 +1,52 @@
-# 👋 Hi, I'm Mostafa Mohamed Abdalla
+[github_profile_readme.md](https://github.com/user-attachments/files/33284693/github_profile_readme.md)[github_profile_readme.md](https://github.com/user-attachments/files/33284694/github_profile_readme.md)# Hi there, I'm Mostafa Mohamed 👋
 
-**Senior Frontend Engineer** focused on **Frontend Architecture, React, Next.js, TypeScript, Open Source, Developer Experience, and Mentorship**.
-
-I build scalable frontend systems, production-ready UI foundations, and open-source developer tools used by programmers to solve real frontend problems.
-
-I’m also the founder of **Shadow Coding**, where I share practical frontend engineering content, mentor developers, and help engineers grow through React, Next.js, TypeScript, architecture, and career guidance.
+Senior Frontend Engineer & Open Source Creator specializing in **Frontend Architecture**, **Scalable React/Next.js Applications**, and **Developer Experience**. Founder of **Shadow Coding** and maintainer of developer-focused npm packages.
 
 ---
 
-## What I Focus On
-
-* Frontend Architecture and scalable project structure
-* React, Next.js, TypeScript, React Native, and Expo
-* Web performance, bundle optimization, and reducing unnecessary re-renders
-* Shared frontend foundations and reusable engineering standards
-* Open-source developer tools and npm packages
-* Mentorship for fresh, junior, mid-level, and senior frontend developers
+### 🚀 What I Do
+* **Frontend Architecture:** Designing shared foundational systems, micro-frontends, and multi-tenant SaaS control planes using **React**, **Next.js**, and **TypeScript**.
+* **Performance & Optimization:** Building high-speed UI, client-side Web Worker image processing, and real-time WebSocket/SignalR data pipelines.
+* **Open Source:** Creator and maintainer of web engineering tools and packages.
+* **Content & Mentorship:** Founder of **Shadow Coding** (16K+ subscribers), mentoring over 100+ software engineers in frontend architecture and career growth.
 
 ---
 
+### 📦 Featured Open Source Packages (npm)
 
-## Open Source Developer Tools
+| Package | Description | Compatibility | Link |
+| :--- | :--- | :--- | :--- |
+| **Accessly** | Zero-dependency UI permissions, RBAC, feature flags, and protected route management. | React, Next.js | [npm](https://www.npmjs.com/package/accessly) |
+| **React Loadly** | Reusable loading states, skeletons, loaders, and loading-state hooks. | React, Next.js | [npm](https://www.npmjs.com/package/react-loadly) |
+| **Compressly** | Client-side image compression & optimization powered by Web Workers & OffscreenCanvas. | React, Next.js, Vue, Svelte, JS | [npm](https://www.npmjs.com/package/compressly) |
+| **Tonely** | Lightweight procedural UI sound generator synthesized via Web Audio API. | React, Next.js, Vue, JS | [npm](https://www.npmjs.com/package/tonely) |
 
-### [Compressly](https://github.com/Mostafashadow1/compressly)
-
-Open-source **zero-dependency image compression library** for React, Next.js, and web applications. It runs client-side inside a Web Worker (`OffscreenCanvas`), compressing large images (e.g., 20MB+ down to ~200KB) in milliseconds before uploading to the server.
-
-Compressly solves the UX issue of hard upload limits and saves cloud storage costs without freezing the main UI thread.
-
-**Highlights**
-
-* **Tiny Bundle:** Less than 3 KB (95% smaller than legacy libraries)
-* **Zero Dependencies:** Pure, native web APIs
-* **Non-blocking UI:** Runs in a Web Worker using `OffscreenCanvas` for 60 FPS performance
-* **Auto EXIF Rotation:** Uses `createImageBitmap` to auto-fix iPhone portrait orientation issues
-* **Adaptive Target Size Loop:** Automatically optimizes quality and dimensions to hit exact target file sizes
-* **Parallel Multi-Image Pool:** Efficient batch compression without consuming excess browser memory
-* **Next.js & React Ready:** Fully compatible with SSR (App & Pages Router) + includes `useImageCompressor` hook
-
-Links:
-
-* [GitHub](https://github.com/Mostafashadow1/compressly)
-* [npm](https://www.npmjs.com/package/compressly)
-* [Playground (Demo)](https://compressly-two.vercel.app/)
-
-* ---
-### [Accessly](https://github.com/Mostafashadow1/accessly)
-
-Open-source **React / Next.js access-control package** for explainable permissions, RBAC, feature flags, backend adapters, navigation filtering, and protected UI patterns.
-
-Accessly helps frontend teams avoid scattered permission checks by providing a consistent permission layer for dashboards, SaaS products, admin panels, and enterprise frontend applications.
-
-**Highlights**
-
-* PermissionProvider
-* Can / Cannot / ProtectedRoute
-* Permission hooks
-* Backend adapters
-* RBAC expansion
-* Wildcard permissions
-* Feature flag checks
-* Navigation filtering
-* Explainable allow / deny decisions
-* TypeScript support
-* Zero runtime dependencies
-
-Links:
-
-* [GitHub](https://github.com/Mostafashadow1/accessly)
-* [npm](https://www.npmjs.com/package/accessly)
+👉 *Check out all my published packages on my [npm profile](https://www.npmjs.com/~mostafashadow).*
 
 ---
 
-### [React Loadly](https://github.com/Mostafashadow1/react-loadly)
+### 🛠 Tech Stack
 
-Open-source **React loading experience library** for loaders, skeleton screens, loading states, TypeScript support, documentation, and production-ready loading patterns.
-
-React Loadly is built to help developers create better loading experiences in React applications without rebuilding the same loading UI patterns again and again.
-
-**Impact**
-
-* 46+ GitHub Stars
-* 300+ Weekly Downloads
-* TypeScript support
-* Documentation and showcase website
-* Built for React loading states and skeleton patterns
-
-Links:
-
-* [GitHub](https://github.com/Mostafashadow1/react-loadly)
-* [npm](https://www.npmjs.com/package/react-loadly)
-* [Showcase](https://mostafashadow1.github.io/react-loadly/)
+* **Core:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Multi-Tenant SaaS
+* **State & Data:** Zustand, TanStack React Query v5, Redux Toolkit, WebSockets, SignalR, Axios
+* **UI & Animation:** Tailwind CSS, HeroUI, Radix UI, Framer Motion, GSAP
+* **Forms & Validation:** React Hook Form, Valibot, Zod
+* **Tools & Build:** Git, GitHub Actions (CI/CD), npm, pnpm, Web Workers
 
 ---
 
-### [Shadow Form Handler](https://github.com/Mostafashadow1/shadow-form-handler)
-
-Open-source form workflow package focused on reusable form logic, validation patterns, and frontend developer experience.
-
-Shadow Form Handler is designed to simplify form handling patterns and help developers build more maintainable form workflows in JavaScript and frontend applications.
-
-Links:
-
-* [GitHub](https://github.com/Mostafashadow1/shadow-form-handler)
-* [npm](https://www.npmjs.com/package/shadow-form-handler)
+### 🎥 Shadow Coding (YouTube)
+I create technical content around React, Next.js, TypeScript, software engineering practices, and system design.
+* 👥 **16,000+** Subscribers
+* 👁️ **466,000+** Views
+* 📹 **200+** Technical Videos
+* 🌐 **Website:** [www.shadow-coding.com](https://www.shadow-coding.com)
 
 ---
 
-## Engineering Impact
+### 📫 Connect With Me
 
-* Designed and maintain a shared frontend foundation currently powering **5 production applications** inside the current company context
-* Reduced development time by approximately **55%** through reusable architecture patterns and shared engineering standards
-* Guide **3 frontend engineers** through code reviews, architecture decisions, and structured learning paths
-* Improved frontend performance by addressing load times, unnecessary re-renders, and bundle-size issues
-* Worked across many product domains including dashboards, CMS platforms, e-commerce, HR, payroll, recruitment, real-time applications, internal systems, and enterprise production tools
-
----
-
-## Shadow Coding
-
-Founder of **Shadow Coding**, a technical learning brand focused on practical frontend engineering.
-
-**Community impact**
-
-* 16K+ YouTube subscribers
-* 466K+ views
-* 208 technical videos
-* 100+ developers mentored
-* 24+ LinkedIn recommendations
-
-I create content around:
-
-* React
-* Next.js
-* TypeScript
-* React Native
-* Frontend Architecture
-* Design Patterns
-* Performance
-* Career growth
-* Interview preparation
-* Real-world frontend engineering
-
----
-
-## Tech Stack
-
-**Frontend**
-
-React, Next.js, TypeScript, JavaScript, React Native, Expo, Tailwind CSS, shadcn/ui
-
-**State, Data, and APIs**
-
-TanStack Query, Redux, Zustand, Axios, REST APIs
-
-**Forms and Validation**
-
-React Hook Form, Valibot, Zod
-
-**Testing and Quality**
-
-Jest, Vitest, React Testing Library, Playwright, ESLint, Prettier
-
-**Tooling**
-
-Git, GitHub, npm, pnpm, CI/CD, Docker
-
-**Engineering**
-
-Frontend Architecture, Design Systems, Web Performance, Developer Experience, Code Reviews, Technical Leadership
-
----
-
-## Connect With Me
-
-* Website: [www.shadow-coding.com](https://www.shadow-coding.com)
-* LinkedIn: [linkedin.com/in/mostafashadow1](https://www.linkedin.com/in/mostafashadow1)
-* GitHub: [github.com/Mostafashadow1](https://github.com/Mostafashadow1)
-* YouTube: [Shadow Coding](https://www.youtube.com/@ShadowCoding1)
-* Email: [mosatfa346@gmail.com](mailto:mosatfa346@gmail.com)
-
----
-
-<p align="left">
-  <a href="https://github.com/Mostafashadow1/compressly">
-    <img src="https://img.shields.io/badge/Compressly-Image%20Compression-111827?style=for-the-badge&logo=npm&logoColor=CB3837" alt="Compressly" />
-  </a>
-  <a href="https://github.com/Mostafashadow1/accessly">
-    <img src="https://img.shields.io/badge/Accessly-React%20Access%20Control-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Accessly" />
-  </a>
-  <a href="https://github.com/Mostafashadow1/react-loadly">
-    <img src="https://img.shields.io/badge/React%20Loadly-Loading%20UI-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Loadly" />
-  </a>
-  <a href="https://www.shadow-coding.com">
-    <img src="https://img.shields.io/badge/Portfolio-Shadow%20Coding-111827?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
+* **Website:** [shadow-coding.com](https://www.shadow-coding.com)
+* **LinkedIn:** [linkedin.com/in/mostafashadow1](https://linkedin.com/in/mostafashadow1)
+* **Email:** [mosatfa346@gmail.com](mailto:mosatfa346@gmail.com)
+* **npm:** [npmjs.com/~mostafashadow](https://www.npmjs.com/~mostafashadow)
