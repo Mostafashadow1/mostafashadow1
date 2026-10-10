@@ -1,4 +1,4 @@
-[github_profile_readme.md](https://github.com/user-attachments/files/33284693/github_profile_readme.md)[github_profile_readme.md](https://github.com/user-attachments/files/33284694/github_profile_readme.md)# Hi there, I'm Mostafa Mohamed 👋
+Hi there, I'm Mostafa Mohamed 👋
 
 Senior Frontend Engineer & Open Source Creator specializing in **Frontend Architecture**, **Scalable React/Next.js Applications**, and **Developer Experience**. Founder of **Shadow Coding** and maintainer of developer-focused npm packages.
 
