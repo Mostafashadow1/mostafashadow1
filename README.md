@@ -1,4 +1,4 @@
-Hi there, I'm Mostafa Mohamed 👋
+# Hi there, I'm Mostafa Mohamed 👋
 
 Senior Frontend Engineer & Open Source Creator specializing in **Frontend Architecture**, **Scalable React/Next.js Applications**, and **Developer Experience**. Founder of **Shadow Coding** and maintainer of developer-focused npm packages.
 
