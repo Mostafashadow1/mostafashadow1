@@ -8,7 +8,7 @@ Senior Frontend Engineer & Open Source Creator specializing in **Frontend Archit
 * **Frontend Architecture:** Designing shared foundational systems, micro-frontends, and multi-tenant SaaS control planes using **React**, **Next.js**, and **TypeScript**.
 * **Performance & Optimization:** Building high-speed UI, client-side Web Worker image processing, and real-time WebSocket/SignalR data pipelines.
 * **Open Source:** Creator and maintainer of small, zero-dependency web engineering tools, built for React, Next.js and AI coding agents.
-* **Content & Mentorship:** Founder of **Shadow Coding** (16K+ subscribers), mentoring over 100+ software engineers in frontend architecture and career growth.
+* **Content & Mentorship:** Founder of **Shadow Coding** (17K+ subscribers), mentoring over 100+ software engineers in frontend architecture and career growth.
 
 ---
 
@@ -47,7 +47,7 @@ I write about shipping npm packages for React and Next.js on [DEV](https://dev.t
 
 ### 🎥 Shadow Coding (YouTube)
 I create technical content around React, Next.js, TypeScript, software engineering practices, and system design.
-* 👥 **16,000+** Subscribers
+* 👥 **17,000+** Subscribers
 * 👁️ **466,000+** Views
 * 📹 **200+** Technical Videos
 * 🌐 **Website:** [www.shadow-coding.com](https://www.shadow-coding.com)
